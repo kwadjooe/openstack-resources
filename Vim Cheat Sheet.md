@@ -2,10 +2,10 @@
 ---
 - Global Help  
 ---
-    |  :help keyword – open help for keyword  |
-    |  :o file – open file  |
-    |  :saveas file – save file as  |
-    |  :close – close current window  |
+|  :help keyword – open help for keyword  |
+|  :o file – open file                    |
+|  :saveas file – save file as            |
+|  :close – close current window          |
 ---
 ## Cursor Movements  
 ---
